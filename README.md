@@ -5,10 +5,10 @@
 -->
 
 - 🔭 Atualmente estou trabalhando em projetos de desenvolvimento de software  
-- 🌱 Estou aprendendo novas tecnologias e aprimorando minhas habilidades em programação  
+- 🌱 Estou aprendendo novas tecnologias e aprimorando minhas habilidades em programação
 - 👯 Procuro colaborar em projetos open source e iniciativas inovadoras  
 - 🤔 Estou em busca de ajuda para evoluir em arquitetura de sistemas e boas práticas  
-- 💬 Pergunte-me sobre desenvolvimento web, backend e boas práticas de código  
-- 📫 Como entrar em contato comigo: [seu e-mail ou LinkedIn aqui]  
+- 💬 Pergunte-me sobre desenvolvimento web, backend e boas práticas de código 
+- 📫 Como entrar em contato comigo
 - 😄 Pronomes: ele/dele  
-- ⚡ Curiosidade: adoro explorar novas ferramentas e aprender algo novo todos os dias  
+- ⚡ Curiosidade: Gosto de aprender e encarar novos desafios 
