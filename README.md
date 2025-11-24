@@ -5,3 +5,5 @@
 - 😊 Atualmente tenho 20 Anos 
 - 🤔 Estou em busca de ajuda para evoluir em arquitetura de sistemas e boas práticas  
 - ⚡ Curiosidade: Gosto de aprender e buscar novos desafios na area da tecnologia.
+- 📪 entre em contato comigo:
+- 🛜 email: andrecelerino28@gmail.com instagram: Andre Celerino 
